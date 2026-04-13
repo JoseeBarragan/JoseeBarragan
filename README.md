@@ -1,7 +1,7 @@
 ## Hi, im José 
 
 # 💫 About Me:
-🧠 Systems Engineering student, currently halfway through the degree.<br>🎮 I enjoy playing video games.<br>📚 Always learning something new about tech.<br>🎧 Music enthusiast.
+🧠 Systems Engineering student.<br>🎮 I enjoy playing video games.<br>📚 Always learning something new about tech.<br>🎧 Music enthusiast.
 
 
 ## 🌐 Socials:
